@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteCrud</string>
+    <string name="name_hint">NAME</string>
+    <string name="address_hint">ADDRESS</string>
+    <string name="delete_btn_text">Delete</string>
+    <string name="submit_btn_text">Submit</string>
+</resources>
